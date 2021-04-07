@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "조민지"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/unnamed.jpg"
   bio              : "I am an **amazing** person."
   location         : "대한민국, 서울"
   email            : "whalswl040402@gmail.com"
